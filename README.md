@@ -1,4 +1,6 @@
-This code is an implementation of logistic regression, a binary classification algorithm, in Python
+This code is an implementation of logistic regression, a binary classification algorithm, in Python.
+
+
 Libraries:
     numpy for numerical operations.
     train_test_split from sklearn.model_selection for splitting the dataset into training and testing sets.
