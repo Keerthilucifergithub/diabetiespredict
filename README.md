@@ -114,4 +114,3 @@ The code in this project trains a logistic regression model on this dataset to p
 
 ---
 
-Please customize this README file as needed to include specific details about your project, and ensure that the dataset URL is accurate and accessible.
