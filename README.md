@@ -52,7 +52,7 @@ Before running the code, ensure you have the following dependencies installed on
 - pandas
 - scikit-learn (for train-test split)
 - matplotlib (for data visualization, though not used in this code)
-- ![image](https://github.com/Keerthilucifergithub/diabetiespredict/assets/138312646/17935095-ce84-487e-a875-abc8a3f0da09 =50x50)
+- ![image](https://github.com/Keerthilucifergithub/diabetiespredict/assets/138312646/17935095-ce84-487e-a875-abc8a3f0da09 )
 
 
 You can install these dependencies using `pip`:
