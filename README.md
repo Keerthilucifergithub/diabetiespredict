@@ -7,6 +7,22 @@
 
 This Python project implements logistic regression for predicting the likelihood of diabetes based on a given set of features. Below, you'll find instructions on how to run the code, its dependencies, dataset source, and a brief dataset description.
 
+## Introduction
+
+The code is structured into two main parts:
+
+1. **Logistic Regression Implementation**
+   - Contains a custom implementation of logistic regression, including the sigmoid function and the logistic regression class.
+   - The logistic regression class has methods for model fitting and prediction.
+
+2. **Main Program**
+   - Imports necessary libraries, including NumPy, pandas, and scikit-learn.
+   - Reads a dataset (e.g., "diabetes.csv") that is assumed to have features and a target variable named 'Outcome.'
+   - Splits the data into training and test sets.
+   - Trains a logistic regression model on the training data.
+   - Calculates and displays the model's accuracy.
+   - Accepts user input to make predictions for diabetes likelihood.
+
 ## Table of Contents
 
 - [Dependencies](#dependencies)
