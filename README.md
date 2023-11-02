@@ -95,7 +95,7 @@ Please ensure that you have a dataset in the CSV format (e.g., "diabetes.csv") w
 
 The dataset used in this project is sourced from the UCI Machine Learning Repository. You can find the dataset at the following URL:
 
-[Diabetes Dataset ()](https://www.kaggle.com/datasets/mathchi/diabetes-data-set/download?datasetVersionNumber=1)
+[Diabetes Dataset](https://www.kaggle.com/datasets/mathchi/diabetes-data-set/download?datasetVersionNumber=1)
 
 ## Dataset Description
 
