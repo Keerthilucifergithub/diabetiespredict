@@ -1,6 +1,7 @@
 
 
 ---
+![image](https://github.com/Keerthilucifergithub/diabetiespredict/assets/138312646/74dffe4f-b370-461d-953e-65cf5ac6dae8)
 
 # Logistic Regression for Diabetes Prediction
 
