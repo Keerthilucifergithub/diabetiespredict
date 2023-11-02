@@ -29,10 +29,10 @@ To run this project, you can either download the files manually or use Git to cl
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/your-repository.git
+git clone https://github.com/Keerthilucifergithub/diabetiespredict .git
 
 # Navigate to the project directory
-cd your-repository
+cd diabetiespredict 
  ```
      
 
