@@ -22,6 +22,19 @@ The code is structured into two main parts:
    - Trains a logistic regression model on the training data.
    - Calculates and displays the model's accuracy.
    - Accepts user input to make predictions for diabetes likelihood.
+   - 
+## Installation
+
+To run this project, you can either download the files manually or use Git to clone the repository. Here are the commands to clone the repository:
+
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/your-repository.git
+
+# Navigate to the project directory
+cd your-repository
+ ```
+     
 
 ## Table of Contents
 
@@ -39,6 +52,8 @@ Before running the code, ensure you have the following dependencies installed on
 - pandas
 - scikit-learn (for train-test split)
 - matplotlib (for data visualization, though not used in this code)
+- ![image](https://github.com/Keerthilucifergithub/diabetiespredict/assets/138312646/17935095-ce84-487e-a875-abc8a3f0da09 =50x50)
+
 
 You can install these dependencies using `pip`:
 
@@ -55,10 +70,9 @@ pip install numpy pandas scikit-learn matplotlib
 3. Run the code using Python:
 
 ```bash
-python your_script_name.py
+python Train.py
 ```
 
-Replace `your_script_name.py` with the name of the Python script that contains the code.
 
 4. Follow the prompts in the command-line interface to perform the following actions:
 
