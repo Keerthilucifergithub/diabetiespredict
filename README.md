@@ -3,7 +3,7 @@
 
 ---
 
-# Logistic Regression for Diabetes Prediction
+# Diabetes Prediction
 
 This Python project implements logistic regression for predicting the likelihood of diabetes based on a given set of features. Below, you'll find instructions on how to run the code, its dependencies, dataset source, and a brief dataset description.
 
