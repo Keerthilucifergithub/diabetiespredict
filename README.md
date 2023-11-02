@@ -53,6 +53,7 @@ Before running the code, ensure you have the following dependencies installed on
 - scikit-learn (for train-test split)
 - matplotlib (for data visualization, though not used in this code)
 - ![image](https://github.com/Keerthilucifergithub/diabetiespredict/assets/138312646/17935095-ce84-487e-a875-abc8a3f0da09 )           ![image](https://github.com/Keerthilucifergithub/diabetiespredict/assets/138312646/d0aaebf3-415d-49a9-beed-9a4b3fca86a3)
+![image](https://github.com/Keerthilucifergithub/diabetiespredict/assets/138312646/667efbd9-10af-40c2-8363-344517219ecb)
 
 
 
