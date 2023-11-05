@@ -61,7 +61,7 @@ Before running the code, ensure you have the following dependencies installed on
 You can install these dependencies using `pip`:
 
 ```bash
-pip install numpy pandas scikit-learn matplotlib
+pip install numpy pandas scikit-learn matplotlib seaborn
 ```
 
 ## How to Run
